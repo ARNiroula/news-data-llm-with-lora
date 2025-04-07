@@ -1,0 +1,2 @@
+# news-data-llm-with-lora
+Parameter Efficient Finetuning of LLMs with Low-Rank Adaption (LoRA) for News Data
