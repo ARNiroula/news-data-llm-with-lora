@@ -22,6 +22,11 @@ source venv/Script/activate
 source venv/bin/activate
 ```
 
+### Install the required packages
+```
+pip install -r requirements.txt
+```
+
 ### Check the Logs of all the runs in the Tensorboard
 - Run the following command
 ```
