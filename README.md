@@ -30,5 +30,11 @@ pip install -r requirements.txt
 ### Check the Logs of all the runs in the Tensorboard
 - Run the following command
 ```
-tensorboard --logdir=runs
+tensorboard --logdir=<tensorboard-log-path>
 ```
+- In this notebook, the `tensorboard` logs are inside final_submission_files/logs/
+
+## Repo Structure
+This repo has 2 main directories
+- Experiments: This was used as scratch environment to test parameters and Experiments with different techniques
+- final_submission_files: This directory contains the final prepared notebook
