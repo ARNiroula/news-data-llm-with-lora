@@ -35,9 +35,11 @@ pip install -r requirements.txt
 ```
 tensorboard --logdir=<tensorboard-log-path>
 ```
-- In this notebook, the `tensorboard` logs are inside final_submission_files/logs/
+- In this notebook, the `tensorboard` logs are inside <experiment-name>/logs/
 
 ## Repo Structure
-This repo has 2 main directories
-- Experiments: This was used as scratch environment to test parameters and Experiments with different techniques
-- final_submission_files: This directory contains the final prepared notebook
+This repo has 2 types of directories
+- experiments: This was used as scratch environment to test parameters and Experiments with different techniques
+- {accuracy}_privateScore_files: This directory contains the notebook, checkpoint, output, logs that was done to get the accuracy
+
+### Note => Out best model is in the directory /87628_privateScore_files/best-model/
