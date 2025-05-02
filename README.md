@@ -9,6 +9,9 @@ Constraints
   - The model should have less than 1M Trainable parameters
 
 
+Note: we didn't include the checkpoint of the fine-tuned GPT-2 LLM model for sample generation because it's too large. It can be accessed using this link: https://drive.google.com/drive/folders/1gKe8IZ2fhkJ2VGdLkbtRCqOiH64gtDqc?usp=sharing
+
+
 ## To Run the Notebook
 ### If in local machine, initialize the virtual environment
 - Run the following commands
