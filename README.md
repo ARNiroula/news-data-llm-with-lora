@@ -2,7 +2,7 @@
 
 **Deep Learning Project 2 – NYU Tandon, Spring 2025**  
 
-Team members: *[Agustin Leon](https://github.com/aguleon), [Akhil Manoj](https://github.com/akM-2018), [Anup Raj Niroula] (https://github.com/ARNiroula)* 
+Team members: *[Agustin Leon](https://github.com/aguleon), [Akhil Manoj](https://github.com/akM-2018), [Anup Raj Niroula](https://github.com/ARNiroula)* 
 
 🔗 [Project Repository](https://github.com/ARNiroula/news-data-llm-with-lora)  
 
