@@ -1,7 +1,7 @@
-# 🧠 News Classification with LoRA Fine-Tuning
+# News Classification with LoRA Fine-Tuning
 
 **Deep Learning Project 2 – NYU Tandon, Spring 2025**  
-*Agustin Leon (al8937), Akhil Manoj (am14580), Anup Raj Niroula (arn8147)*  
+*[Agustin Leon](https://github.com/aguleon), [Akhil Manoj](https://github.com/akM-2018), [Anup Raj Niroula] ([arn8147](https://github.com/ARNiroula))*  
 🔗 [Project Repository](https://github.com/ARNiroula/news-data-llm-with-lora)  
 🏆 **1st Place Winner** – [Kaggle Deep Learning Spring 2025 Project 2](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2)
 
@@ -58,7 +58,7 @@ This project explores parameter-efficient fine-tuning using **Low-Rank Adaptatio
 - Synonym-based replacement using **WordNet**
 - Minor gains (~1-2%) observed
 
-### 🔥 Phase 2: GPT-2 Based Domain Adaptation
+### 🧠 Phase 2: GPT-2 Based Domain Adaptation
 
 1. **Fine-tuned GPT-2** for 2 epochs on the OOD unlabeled set.
 2. **Prompt engineering** for all 4 AG-News classes.
@@ -94,10 +94,10 @@ Our final LoRA-adapted RoBERTa model achieved strong results despite the strict 
 
 ### 📊 Training Curves
 
-![Accuracy vs Steps](./images/accuracy_plot.png)  
+![Accuracy vs Steps](./images/eval_accuracy.png)  
 *Figure: Accuracy progression during training*
 
-![Loss vs Steps](./images/loss_plot.png)  
+![Loss vs Steps](./images/eval_loss.png)  
 *Figure: Loss reduction over training steps*
 
 ---
