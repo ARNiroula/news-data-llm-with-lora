@@ -4,7 +4,7 @@
 
 Team members: *[Agustin Leon](https://github.com/aguleon), [Akhil Manoj](https://github.com/akM-2018), [Anup Raj Niroula](https://github.com/ARNiroula)* 
 
-🔗 [Project Repository](https://github.com/ARNiroula/news-data-llm-with-lora), [Full Project Report](Report.pdf)
+🔗 [💻Project Repository](https://github.com/ARNiroula/news-data-llm-with-lora), [📄Full Project Report](Report.pdf)
 
 🏆 **1st Place Winner** – [Kaggle Deep Learning Spring 2025 Project 2](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2)
 
