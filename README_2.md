@@ -3,7 +3,7 @@
 **Deep Learning Project 2 – NYU Tandon, Spring 2025**  
 *Agustin Leon (al8937), Akhil Manoj (am14580), Anup Raj Niroula (arn8147)*  
 🔗 [Project Repository](https://github.com/ARNiroula/news-data-llm-with-lora)  
-🏆 Kaggle Challenge: [Spring 2025 Project 2](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2)
+🏆 **1st Place Winner** – [Kaggle Deep Learning Spring 2025 Project 2](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2)
 
 ---
 
@@ -128,10 +128,13 @@ Our final LoRA-adapted RoBERTa model achieved strong results despite the strict 
 
 - [RoBERTa: Liu et al. (2019)](https://arxiv.org/abs/1907.11692)
 - [PEFT Library (2022)](https://github.com/huggingface/peft)
-- [AdamW Optimizer](https://arxiv.org/abs/1711.05101)
+- [AdamW Optimizer](https://arxiv.org/abs/1711.)
 - [GPT-2 Prompt Tuning](https://arxiv.org/abs/2112.08718)
 - [Synthetic Data with LLMs (2024)](https://arxiv.org/abs/2407.12813)
 
 ---
 
 > *“Parameter-efficiency doesn't mean performance compromise. LoRA proves it.”*
+
+---
+
